@@ -1,0 +1,1292 @@
+
+html{
+  background-color: #fff!important;
+}
+body{
+background-image: linear-gradient(to bottom, #5031e3, #8637de, #ab42d9, #c752d6, #de64d3);}
+.section-1{
+  position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+}
+.start:hover{
+  -webkit-box-shadow: 2px -2px 18px 14px rgba(0,0,0,0.38);
+box-shadow: 2px -2px 18px 14px rgba(0,0,0,0.38);
+}
+.edd-icon{
+  margin-top: 10px;
+}
+.main-banner{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: initial;
+}
+.figure a{
+  text-decoration: none;
+    font-size: 17px;
+    color: white;
+    font-family: "BPG Nino Medium Caps", sans-serif;
+    margin-left: 20px;
+    margin-top: 20px;
+    display: inline-block;
+    
+}
+.figure2 h1{
+  text-decoration: none;
+    font-size: 20px;
+    color: white;
+    font-family: "BPG Ingiri", sans-serif;
+    margin-left: 570px;
+    margin-top: 15px;
+    display: inline-block;
+    
+}
+
+.class1{
+    margin-left: 501px;
+    text-align: right;
+}
+.down-arrow{
+  
+  margin-left: 580px;
+  margin-top: -250px;
+  background-color: #333;
+  width: 100px;
+  height: 50px;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
+.arrow{
+  margin-top: 10px;
+}
+.section-2{
+  display: block;
+  width: 1200px;
+  height: 900px;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-left: auto;
+  
+}
+.main-menu{
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+}
+.div-1{
+  width: 500px;
+  height: 400px;
+  margin-left: auto;
+  margin-top: 50px;
+  margin-right: auto;
+  background-color: #222222a3;
+}
+.div-1:hover{
+  -webkit-box-shadow: 2px -1px 63px 19px rgba(255,255,255,1);
+-moz-box-shadow: 2px -1px 63px 19px rgba(255,255,255,1);
+box-shadow: 2px -1px 63px 19px rgba(255,255,255,1);
+}
+.div-2{
+  width: 500px;
+  height: 400px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  
+}
+.div-3{
+  width: 500px;
+  height: 400px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  
+}
+.div-4{
+  width: 500px;
+  height: 400px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  
+}
+
+.div-1 h1{
+  text-align: left;
+  color: #fff;
+  margin-left: 10px;
+  font-size: 25px;
+  margin-top: 10px;
+  font-family: "BPG Nino Medium Caps", sans-serif;
+}
+.icon1{
+  margin-left: 350px;
+  margin-top: -30px;
+}
+.icon2{
+  margin-left: 10px;
+}
+.div-1 a{
+  text-decoration: none;
+  display: list-item;
+  text-align: left;
+  color: #fff;
+  margin-left: 30px;
+  font-size: 20px;
+  margin-top: 20px;
+  line-height: ;
+  font-family: "BPG Ingiri", sans-serif;
+  
+}
+.div-1 a:hover{
+    color: #fff;
+    text-decoration: underline;
+    border-radius: 5px;
+    
+    
+ }
+ .class-img3{
+  position: absolute;
+  top: 20px;
+  left: 40px;
+  width: 260px;
+    background-color: #fff;
+    border-bottom-right-radius: 140px;
+    border-bottom-left-radius: 140px;
+ }
+ .class1 a:hover{
+  
+  color: #ff99cc
+ }
+
+ .class1 a{
+  color: #ffffff
+ }
+ .class-a3{
+  margin-left: 550px;
+  color:#fff;
+ }
+ .class-a3:hover{
+  line-height: 15px;
+ }
+ .header-text{
+  list-style: none;
+  margin:35px;
+  background:-webkit-linear-gradient(298deg, #33334d
+
+ 60%, #333
+ 60%);
+  background:-o-linear-gradient(298deg, #33334d
+
+ 60%, #333
+ 60%);
+      background: linear-gradient(152deg, #990099 60%, rgba(0,0,0,0.2) 60%);
+
+  padding: 7px;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+  color: #fff;
+
+ }
+ .header-text:hover{
+  list-style: none;
+  background:-webkit-linear-gradient(298deg, #330066
+ 60%, #990099
+ 60%);
+  background:-o-linear-gradient(298deg, #330066
+ 60%, #990099
+ 60%);
+  background:linear-gradient(152deg, #330066
+ 60%, #990099
+ 60%);
+    border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+  text-decoration: none;
+ }
+/*flag start*/
+* {
+
+  -webkit-box-sizing: border-box;
+
+          box-sizing: border-box;
+}
+.flag {
+  width: 60px;
+  height: 176px;
+  margin: 0 auto;
+  margin-top: -570px;
+  padding-top: 10px;
+  margin-left: 1108px;
+  position: absolute; 
+ 
+  
+  color: white;
+  font-size: 16px;
+  letter-spacing: 0.2em;
+  text-align: center;
+  text-transform: uppercase;
+  background-color:  #33334d
+
+;
+
+}
+.flag:after {
+  content: ' ';
+
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 0;
+  opacity: 0.5;
+  border-bottom: 30px solid  #fff
+;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+}
+.flag img{
+  margin-top: 8px;
+}
+/*flag over*/
+/*banner text start*/
+.banner-text{
+  padding: 15px;
+  position: absolute;
+  letter-spacing: 0.07em;
+  background: -webkit-linear-gradient(328deg,  #33334d
+ 60%,  transparent
+ 60%);
+  background: -o-linear-gradient(328deg,  #33334d
+ 60%,  transparent
+ 60%);
+  background: linear-gradient(122deg,  #33334d
+ 60%,  transparent
+ 60%);
+  line-height: 35px;
+  text-align: left;
+  border-radius: 40px;
+  width: 500px;
+  margin-top: -418px;
+  margin-left: 354px;
+  color: white;
+  font-size: 28px;
+  font-family: "ALK Rounded Mtav Med", sans-serif;
+}
+/*banner text over*/
+/*figure start*/
+.figure{
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px;
+  position: absolute;
+  top: 0px;
+  height:50px;
+  background: -webkit-linear-gradient(330deg,    #33334d
+
+
+ 60%,  #333
+ 60%);
+  background: -o-linear-gradient(330deg,    #33334d
+
+
+ 60%,  #333
+ 60%);
+  background: linear-gradient(120deg,    #33334d
+
+
+ 60%,  #333
+ 60%);
+}
+.figure2{
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px;
+  height:50px;
+  top: 0px;
+  position: relative;
+  background: -webkit-linear-gradient(150deg,   #33334d
+ 60%,  #333
+ 60%);
+  background: -o-linear-gradient(150deg,   #33334d
+ 60%,  #333
+ 60%);
+  background: linear-gradient(-60deg,   #33334d
+ 60%,  #333
+ 60%);
+}
+
+/*figure over*/
+/*new start*/
+.class-a1 {
+  font-family: "ALK Rounded Mtav Med", sans-serif;
+    line-height: 90px;
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  font-size: 20px;
+  text-decoration: none;
+}
+.class-a1:hover {
+  background: -webkit-linear-gradient(150deg,   #ffffff
+ 60%,  #ffffff
+ 60%);
+  background: -o-linear-gradient(150deg,   
+ 60%,  #555895
+ 60%);
+  background: linear-gradient(-60deg,   orange
+ 60%,  #333
+ 60%);
+
+}
+.class-p1 {
+  font-family: "ALK Rounded Mtav Med", sans-serif;
+  margin-top: 10px;
+  color: #ffffff;
+
+}
+.class-p3{
+  font-family: "ALK Rounded Mtav Med", sans-serif;
+  color: #fff;
+}
+.class-h11{
+  font-family: ALK Rounded Mtav Med, sans-serif;
+  font-size: 30px;
+  margin-top: 100px;
+  color: #fff;
+  margin-left: 30px;
+}
+.class-div1{
+  display: block;
+  text-align: center;
+}
+.class-img1{
+  width:300px;height: 250px;margin-left: 30px;
+  border-radius:25px;
+}
+.class-img2{
+  margin-left: 20px;
+  
+}
+.class-div2{
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 40px;
+  margin-top: 70px;
+}
+/*new over*/
+/*footer start*/
+.section-3{
+background: linear-gradient(-60deg,   #22222275   60%,  #333   60%)
+  background: -o-linear-gradient(150deg,   
+ 60%,  #333
+ 60%);
+  background: linear-gradient(-60deg,   #222
+ 60%,  #333
+ 60%);  width: 1260px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  margin-top: 500px;
+
+}
+.section-3-3{
+background: linear-gradient(-60deg,   #22222275   60%,  #333   60%)
+  background: -o-linear-gradient(150deg,   
+ 60%,  #333
+ 60%);
+  background: linear-gradient(-60deg,   #222
+ 60%,  #333
+ 60%); 
+   width: 1260px;
+  position: relative;
+  margin-top: -55px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.section-3-3-1{
+background: linear-gradient(-60deg,   #22222275   60%,  #333   60%)
+  background: -o-linear-gradient(150deg,   
+ 60%,  #333
+ 60%);
+  background: linear-gradient(-60deg,   #222
+ 60%,  #333
+ 60%); 
+  width: 1260px;
+  position: relative;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.sec-4{
+  display: inline-block;
+}
+.class-img4{
+  top: 80px;
+  position:absolute;
+  left: 50px;
+  background-color: #fff;
+  width: 250px;
+  border-radius: 5px;
+ 
+
+
+}
+.class-div3 p{
+  color: white;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 14px;
+  font-family: ALK Rounded Mtav Med, sans-serif;
+  margin-left: 100px;
+
+}
+.class-p2{
+  font-family: ALK Rounded Mtav Med, sans-serif;
+  color: white;
+  margin-left: 200px;
+
+}
+.hr222{
+  height: 240px;
+  position: relative;
+  left: 30px; 
+  margin-top: -95px;
+}
+.class-div3 hr{
+  margin-top: 80px;
+}
+.class-div3{
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  margin-left: 100px;
+}
+.class-div4 {
+  font-family: ALK Rounded Mtav Med, sans-serif;
+  color: white;
+  text-decoration: none;
+  margin-top: 20px;
+  font-size: 15px;
+    line-height: 50px;
+    margin-left: 367px;
+    width: 100px;
+}
+.class-div4 a{
+  color: white;
+  text-decoration: none;
+
+}
+.up-line{
+  width: 10px;
+  background-color: white;
+  height:100px;
+}
+.class-div5{
+  margin-top: -154px;
+  margin-left: 570px;
+}
+.class-a2{
+  color: white;
+  text-decoration: none;
+  font-size: 15px;
+  width: 10px;
+  font-family: ALK Rounded Mtav Med, sans-serif;
+
+}
+.class-div6{
+  margin-left: 564px;
+  margin-top: 3px;
+  display: -ms-inline-grid;
+  display: inline-grid;
+  width: 200px;
+  line-height: 50px;
+  font-family: ALK Rounded Mtav Med, sans-serif;
+}
+.class-div6 a{
+  text-decoration: none;
+  color: #fff;
+  font-size: 15px;
+
+}
+.class-img5{
+    width: 20px;
+    right: 490px;
+    top: 77px;
+    position: absolute;
+}
+.class-img5 img{
+    padding-top: 20px;
+}
+/*footer over*/
+/*რეკლამა და მარკეტინგი start*/
+.block-1 {  
+    display: block;
+    width: 1200px;
+    height: 100%;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-left: auto;
+   position: relative;
+}
+.hr10{
+  color: #cae0e7;
+  margin-top: 50px;
+}
+.box-1 {
+    width: 1196px;
+    height: 270px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    display: block;
+    background-color: #22222285;
+    border: 2px solid #ffffff;
+}
+.dropbtn {
+ 
+ background-color: transparent;
+ font-size: 17px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+    text-align: right;
+    display: none;
+    font-size: 15px;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 294px;
+    -webkit-box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    margin-left: -300px;
+    margin-top: -36px;
+
+}
+
+
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: transparent;}
+
+.left-box a {
+  text-decoration: none;
+  display: inline-block;
+  position: relative;
+  font-family: Arial;
+  font-weight: bold;
+  padding: 0 0 0px 0;
+  color: #fff;
+  margin-bottom: 12px;
+}
+
+.left-box a:after {
+  content: '';
+  position: absolute;
+  height: 2px;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  visibility: hidden;
+  background-color: #555895;
+  -webkit-transition: all .1s ease;
+  -webkit-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;  
+  -webkit-transform: scaleX(0);
+  -ms-transform: scaleX(0);
+  transform: scaleX(0);
+}
+
+a:hover:after {
+  visibility: visible;
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.box-1-h1{
+  font-family: ALK Rounded Mtav Med, sans-serif;
+  color: #fff;
+  border:  1px solid #fff;
+  width: 100%;
+  margin-top: 30px;
+  font-size: 30px;
+  padding: 20px;
+  background-color: #222222ab;
+}
+.box-1:hover{
+  -webkit-box-shadow: 2px -1px 63px 19px rgba(255,255,255,1);
+-moz-box-shadow: 2px -1px 63px 19px rgba(255,255,255,1);
+box-shadow: 2px -1px 63px 19px rgba(255,255,255,1);
+}
+.left-box{
+  width:950px;
+  height: 110px;
+  font-size: 20px;
+
+  padding: 18px;
+  font-family: "BPG Ingiri", sans-serif;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+
+}
+.left-box img{
+    
+    max-height: 140px;
+    margin-top: -40px;
+   border-radius: 10px;
+
+}
+.left-box a{
+  margin-left: 20px;
+  font-size: 22px;
+  margin-top: 20px;
+  text-decoration: none;
+  color: #fff;
+  font-family: "BPG Ingiri", sans-serif;
+    
+}
+.left-box a:hover{
+    text-decoration: none;
+}
+.left-box p{
+  font-size: 13px;
+  margin-left: 20px;
+  margin-top: 25px;
+  color: #fff;
+  font-family: "BPG Ingiri", sans-serif;
+
+}
+.left-box-2{
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  width:950px;
+  height: 160px;
+  font-size: 20px;
+  
+  margin-top: -100px;
+}
+.left-box-2 p{
+    font-family: "BPG Ingiri", sans-serif;
+    font-size: 13px;
+    padding: 20px;
+    width: 910px;
+    color: #fff;
+    line-height: 15px;
+
+}
+.jam{
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+.left-box-2 map{
+   width: 550px;
+   height: 140px;
+   margin-top: 128px;
+   background-color: #555895
+}     
+.hr12 {
+  color: #333;
+  margin: 10px;
+}
+.right-box{
+  width:245px;
+  height: 263px;
+  font-size: 20px;
+  margin-left: 38px;
+  padding: 18px;
+  font-family: "BPG Ingiri", sans-serif;
+  display: -ms-inline-grid;
+  display: inline-grid;position: absolute;
+  margin-top: -122px;
+
+}
+
+.img-box-1{
+  margin-top: 15px;
+}
+.img-box-1 p{
+  margin-top: -45px;
+  font-size: 11px;
+      letter-spacing: 0.09em;
+}
+.img-box-2{
+  margin-right: 18px;
+}
+.p12{
+  margin-left: 38px;
+    margin-top: -15px;
+    font-size: 17px;
+    color: #ffffff;
+  }
+  .img-box-3{
+    margin-left: 5px;
+    margin-top:12px;
+
+  }
+  .div231{
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+  }
+  .a231{
+      font-size: 20px;
+    margin-top: 50px;
+    background-color: currentColor;
+    border-radius: 10px;
+
+
+  }
+  .div231 img{
+
+  }
+  
+  .top-box{
+    margin-top: 50px;
+  }
+  
+.hrs{
+  width: 943px;
+  margin-left:10px;
+  margin-bottom: 15px;
+
+  }.c1{
+    background-color: #33334d;
+    padding: 5px;
+    border-radius: 5px;
+    padding-bottom: -15px;
+    padding-left: 11px;
+    color: #fff;
+    text-decoration: none;
+
+  }
+  .c1:hover{
+    background-color: #333;
+    color: #fff;
+
+  }
+  .s2:hover{
+    background-color: #333;
+    color: #fff;
+    border-radius: 5px;
+
+  }
+/*რეკლამა და მარკეტინგი over*/
+/*button visit site*/
+/*       Just setting CSS for the page   */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+css {
+  width: 100%;
+  height: 100%;
+}
+
+.position {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 15%;
+}
+
+#workarea {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #1e1a3e;
+  font-family: Raleway;
+}
+
+#personal {
+  color:white;
+  text-decoration:none;
+  position:absolute;
+  bottom:15px;
+  right:2%;
+}
+/*    start code for the actual button:         */
+
+
+/*   
+    Spot is the span on the inside of the href that
+    fills the parent and makes the hover and link work
+    for the entire div
+*/
+
+.spot {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+/*
+    This is the outer svg wrapper that the SVG itself will 
+    fill. Multiple svg-wrapper classes can be put side by side.
+*/
+
+.svg-wrapper {
+  margin-top: 0;
+  position: relative;
+  width: 150px;
+  /*make sure to use same height/width as in the html*/
+  height: 40px;
+  display: inline-block;
+  border-radius: 3px;
+  margin-left: 5px;
+  margin-right: 5px
+}
+/*
+  This is where we define the fill, color, thickness,
+  and stroke pattern of the SVG when there is no hover.
+  The dasharray and offset together define the line position
+  under the words. Here's also where the transition speed is set.
+*/
+
+#shape {
+  stroke-width: 6px;
+  fill: transparent;
+  stroke: #33334d;
+  stroke-dasharray: 85 400;
+  stroke-dashoffset: -220;
+  -webkit-transition: 1s all ease;
+  -o-transition: 1s all ease;
+  transition: 1s all ease;
+}
+/* 
+    Pushing the text up into the SVG. Without this the
+    text would be below the div's.
+*/
+
+#text {
+  margin-top: -35px;
+  text-align: center;
+}
+
+#text a {
+color: #fbfbfbb3;
+  text-decoration: none;
+  font-weight: 100;
+  font-size: 1.1em;
+  font-family: "BPG Ingiri", sans-serif;
+}
+/* 
+    Changing the shape on hover. I change the color of the stroke,
+make it thinner, then set it to again wrap around the entire parent element.
+*/
+
+.svg-wrapper:hover #shape {
+  stroke-dasharray: 50 0;
+  stroke-width: 5px;
+  stroke-dashoffset: 0;
+  stroke:#fff
+;
+}
+/*button visit site over*/
+
+/*SECTION 1 START*/
+.section-11-box{
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  margin-top: 100px;
+}
+.section-11-left-box{
+  margin-top: -108px;
+}
+.section-11-left-box h1{
+      font-family: "ALK Rounded Mtav Med", sans-serif;
+
+  font-size: 25px;
+  color: #fff;
+  margin-left: 130px;
+  margin-top: 80px;
+      background-color: #33333385;
+    padding: 23px;
+}
+.section-11-left-box p {
+    color: #fff;
+    font-size: 19px;
+    margin-top: 10px;
+    font-family: "BPG Ingiri", sans-serif;
+    line-height: 25px;
+    margin-left: 128px;
+    margin-top: 25px;
+    
+}
+.section-11-left-box button{
+  background-color: #33334d12;
+  border-radius: 40px;
+    font-family: "BPG Ingiri", sans-serif;
+  border:0;
+  font-size:15px ;
+  color: #ffffff;
+  margin-top: 50px;
+  margin-left: 130px;
+  padding: 20px;
+  width: 221px;
+  border:1px solid #fff;
+}
+.section-11-left-box button:hover{
+  -webkit-box-shadow: 2px -1px 63px 19px rgba(255,255,255,1);
+-moz-box-shadow: 2px -1px 63px 19px rgba(255,255,255,1);
+box-shadow: 2px -1px 63px 19px rgba(255,255,255,1);
+}
+.section-11-right-box{
+  margin-left: 150px;
+  margin-top: -50px;
+}
+.section-11-right-box   {
+  margin-right: 150px;
+}
+/*SECTION 1 OVER*/
+/*SECTION 2 START*/
+.class-a9{
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+
+/*responsive start*/
+
+@media only screen and (max-width:620px) {
+  /* For mobile phones: */
+  .figure {
+    
+        margin-left: -187px;
+    width: 378px;
+
+  }
+  .class-h11 {
+    font-family: ALK Rounded Mtav Med, sans-serif;
+    font-size: 30px;
+    margin-top: 126px;
+    color: #fff;
+    margin-left: -1px;
+}
+.section-11-left-box h1 {
+    font-family: "ALK Rounded Mtav Med", sans-serif;
+    font-size: 25px;
+    color: #fff;
+    margin-left: 0px;
+    margin-top: 80px;
+    width: 379px;
+    text-align: center;
+    background-color: #2222224a;
+    height: 100px;
+    padding-top: 10px;
+}
+ 
+ .section-11-left-box p {
+    color: #fff;
+    font-size: 17px;
+    margin-top: 10px;
+    font-family: "BPG Ingiri", sans-serif;
+    line-height: 25px;
+    margin-left: -4px;
+    margin-top: 25px;
+    text-align: center;
+}
+.section-3-3-1 {
+background: linear-gradient(-60deg,   #22222275   60%,  #333   60%)
+  background: -o-linear-gradient(150deg,   
+ 60%,  #333
+ 60%);
+  background: linear-gradient(-60deg,   #222
+ 60%,  #333
+ 60%);    width: 376px;
+    position: relative;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.disk{
+  display: inline-grid;
+    margin-left: -40px;
+}
+ .figure a{
+    text-decoration: none;
+    font-size: 26px;
+    color: white;
+    font-family: "BPG Nino Medium Caps", sans-serif;
+    margin-left: -54px;
+    margin-top: 32px;
+    display: inline-block;
+    color: #fff;
+    font-style: bold;
+    text-align: center;
+    font-weight: bolder;
+  }
+
+  .class-img3{
+        left: -120px;
+
+    top: 43px;
+  }
+
+  .banner-text{
+    display: none;
+  }
+  .class1 {
+    margin-top: 220px;
+    margin-left: 109px;
+    text-align: center;
+    display: -ms-inline-grid;
+    display: inline-grid;
+}
+  .main-banner{
+    display: none;
+  }
+  .section-2{
+    margin-top: 420px;
+
+  }
+   .flag{
+    display: none;
+   }
+   .figure2{
+    display: none;
+   }
+
+   .main-menu{
+        width: 370px;
+
+   }
+   .section-2{
+        margin-top: 432px;
+    width: 377px;
+   }
+   .div-1 h1 {
+    text-align: left;
+    color: #fff;
+    margin-left: 0px;
+    font-size: 25px;
+    margin-top: 10px;
+    font-family: "BPG Nino Medium Caps", sans-serif;
+}
+.div-1 {
+    width: 372px;
+    height: 400px;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-right: auto;
+    background-color: #222222a3;
+}
+  .class-img4{
+    left: 62px;
+  }
+  .div-1 a {
+    text-decoration: none;
+    display: list-item;
+    text-align: left;
+    color: #fff;
+    margin-left: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    line-height: ;
+    font-family: "BPG Ingiri", sans-serif;
+    width: 353px;
+}
+.icon1{
+      margin-left: 229px;
+    margin-top: -30px;
+}
+.section-3 {
+    margin-top: 1441px;
+    width: 377px;
+}
+.class-p2{
+  display: none;
+}
+.class-div3 p{
+  margin-left: 63px;
+}
+
+.class-div4 {
+    font-family: ALK Rounded Mtav Med, sans-serif;
+    color: white;
+    text-decoration: none;
+    margin-top: 220px;
+    font-size: 25px;
+    line-height: 50px;
+    margin-left: 130px;
+    width: 100px;
+    text-align: center;
+}
+.cold{
+  display: none;
+}
+.class-div6 {
+    margin-left: 130px;
+    margin-top: 183px;
+    display: -ms-inline-grid;
+    display: inline-grid;
+    width: 200px;
+    line-height: 50px;
+    font-family: ALK Rounded Mtav Med, sans-serif;
+}
+
+.class-div2{
+  display: -ms-inline-grid;
+  display: inline-grid;
+}
+.class-img2{
+  display: none;
+}
+.class-div1{
+  margin-top: -108px;
+}
+
+.section-11-box {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    margin-top: 500px;
+    width: 377px
+}
+.section-11-right-box img{
+  display: none;
+}
+.section-3-3{
+  width: 377px;
+}
+.sec-4 {
+    display: inline-block;
+    width: 377px;
+}
+.jott{
+  margin-top:450px;
+}
+.block-1{
+  margin-top: 500px;
+  width: 377px;
+
+}
+.box-1{
+  width: 377px;
+    height: 548px;
+    display: -ms-inline-grid;
+    display: inline-grid;
+}
+.left-box{
+  display: -ms-inline-grid;
+  display: inline-grid;
+  width: 377px;
+}
+.left-box p {
+    font-size: 13px;
+    margin-left: 201px;
+    margin-top: -25px;
+    color: #fff;
+    font-family: "BPG Ingiri", sans-serif;
+}
+.hrs{
+  display: none;
+}
+.left-box a {
+    margin-left: 2px;
+    font-size: 22px;
+    margin-top: 17px;
+    text-decoration: none;
+    color: #fbfbfb;
+    font-family: "BPG Ingiri", sans-serif;
+}
+.hrs {
+    width: 353px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+.start{
+  display: -ms-inline-grid;
+  display: inline-grid;
+}
+.left-box-2 p {
+    font-family: "BPG Ingiri", sans-serif;
+    font-size: 13px;
+    padding: 20px;
+    width: 910px;
+    color: #fff;
+    width: 377px;
+    line-height: 15px;
+    margin-top: 20px;
+}
+.left-box-2 {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: -ms-inline-grid;
+    display: inline-grid;
+    width: 377px;
+    height: 160px;
+    font-size: 20px;
+    margin-top: 121px;
+}
+.hr222{
+  display: none;
+}
+.right-box {
+    width: 245px;
+    height: 263px;
+    font-size: 20px;
+    margin-left: 90px;
+    padding: 18px;
+    font-family: "BPG Ingiri", sans-serif;
+    display: -ms-inline-grid;
+    display: inline-grid;
+    position: absolute;
+    margin-top: 155px;
+}
+.svg-wrapper {
+    margin-top: -50px;
+    position: relative;
+    width: 150px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 3px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+body{
+      background-image: linear-gradient(to bottom, #333, #8637de, #ab42d9, #c752d6, #de64d3);
+
+}
+
+
+}
+
+
+/*responsive over*/
