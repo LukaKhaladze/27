@@ -3,7 +3,7 @@ html{
   background-color: #fff!important;
 }
 body{
-
+  width: 100%;
 }
 .section-1{
   position: relative;
@@ -436,7 +436,7 @@ font-family: cursive;}
   display: -ms-flexbox;
   display: flex;
   margin-left: 40px;
-  margin-top: 70px;
+  margin-top: 1520px;
 }
 /*new over*/
 /*footer start*/
@@ -451,7 +451,7 @@ background: linear-gradient(-60deg,   #22222275   60%,  #333   60%)
   margin-left: auto;
   margin-right: auto;
   position: relative;
-  margin-top: 1978px;
+  margin-top: 250px;
 
 }
 .section-3-3{
@@ -1110,7 +1110,7 @@ box-shadow: -1px -2px 52px 0px rgba(255,255,255,1);
     background: linear-gradient(60deg, #2222229e 60%, #9900996b 60%);
     height: 50px;
     padding-top: 14px;
-    width: 1200px;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -1437,13 +1437,8 @@ box-shadow: -1px -2px 52px 0px rgba(255,255,255,1);
   vertical-align: baseline;
 }
 
-html {
-  font-family: Roboto;
-}
 
-body {
-  width: 100%;
-}
+
 
 h1 {
   font-size: 24px;
@@ -1489,12 +1484,16 @@ p {
   margin-top: 30px;
       position: relative;
     top: 261px;
+      font-family: "ALK Rounded Mtav Med", sans-serif;
+
     left: 520px;
 }
 .btnOutline3 {
   display: block;
   color: #289dff;
   text-decoration: none;
+    font-family: "ALK Rounded Mtav Med", sans-serif;
+
   border: 2px solid #289dff;
   border-radius: 6px;
   width: 500px;
@@ -1523,7 +1522,7 @@ align-items: left;
   margin-top: -120px
 }
 .right-sid img{
-  margin-left: 810px;
+  margin-left: 802px;
   margin-top: -20px
 }
 .hash {
@@ -1698,13 +1697,15 @@ header {
 
 
 .list2 {
-  width: 45%;
+  width: 65%;
+
   margin: 5rem auto;
 }
 .list2 ul {
   list-style: none;
-  margin-left:115px;
-  margin-top: -140px;
+    margin-left: 410px;
+    margin-top: 302px;
+
 }
 
 .list2 ul li {
@@ -2271,7 +2272,7 @@ background: linear-gradient(-60deg,   #22222275   60%,  #333   60%)
     margin-top: -30px;
 }
 .section-3 {
-    margin-top: 1441px;
+    margin-top: 141px;
     width: 377px;
 }
 .class-p2{
