@@ -5,6 +5,11 @@ html{
 body{
   width: 100%;
 }
+.web-company{
+  background: #00416A;  /* fallback for old browsers */
+    background: linear-gradient(to right, #455b9e, #e5e1e8);
+        background: linear-gradient(to right, #455b9e, #e5e1e8);
+}
 .section-1{
   position: relative;
     
@@ -513,11 +518,28 @@ background: linear-gradient(-60deg,   #22222275   60%,  #333   60%)
   margin-left: 200px;
 
 }
+.vl {
+      border-left: 1px solid #afaba3;
+    height: 138px;
+    /* width: 3px; */
+    padding: 10px;
+    margin-top: 3px;
+}
+.vl2 {
+      border-left: 1px solid #afaba3;
+    height: 138px;
+    /* width: 3px; */
+    padding: 10px;
+    margin-top: 3px;
+    margin-left: 20px;
+}
 .hr222{
   height: 240px;
-  position: relative;
-  left: 30px; 
+  position: absolute;
+  left: 980px; 
   margin-top: -95px;
+  background-color: #475862;
+  width: 1px;
 }
 .class-div3 hr{
   margin-top: 80px;
@@ -596,7 +618,7 @@ background: linear-gradient(-60deg,   #22222275   60%,  #333   60%)
    position: relative;
 }
 .hr10{
-  color: #cae0e7;
+  color: #fff;
   margin-top: 50px;
 }
 .box-1 {
@@ -606,10 +628,10 @@ background: linear-gradient(-60deg,   #22222275   60%,  #333   60%)
     margin-right: auto;
     margin-top: 0px;
     display: block;
-background: #23074d;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #cc5333, #23074d);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #cc5333, #23074d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    border: 2px solid #ffffff;
+background: #BBD2C5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #292E49, #536976, #BBD2C5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #292E49, #536976, #222222); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 .dropbtn {
  
@@ -803,7 +825,7 @@ a:hover:after {
   margin-left: 38px;
     margin-top: -15px;
     font-size: 17px;
-    color: #757982;
+    color: #cccccceb;
   }
   .img-box-3{
     margin-left: 5px;
@@ -835,6 +857,8 @@ a:hover:after {
   width: 943px;
   margin-left:10px;
   margin-bottom: 15px;
+  background-color: #ccc;
+    height: 1px;
 
   }.c1{
     background-color: #33334d;
@@ -969,7 +993,7 @@ make it thinner, then set it to again wrap around the entire parent element.
   stroke-dasharray: 50 0;
   stroke-width: 5px;
   stroke-dashoffset: 0;
-  stroke:#7735df
+  stroke:#fff
 ;
 }
 /*button visit site over*/
@@ -1427,7 +1451,6 @@ box-shadow: -1px -2px 52px 0px rgba(255,255,255,1);
 }
 /*animations start*/
 /*  ====================Global =======*/
-@import url("https://fonts.googleapis.com/css?family=Lato|Roboto");
 
 * {
   padding: 0;
@@ -1457,11 +1480,15 @@ p {
 /*  ====================Buttons =======*/
 .btnOutline {
   display: block;
-  color: #289dff;
+  color: #fff;
   text-decoration: none;
   border: 2px solid #289dff;
   border-radius: 6px;
   width: 500px;
+   background: #24C6DC;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #514A9D, #24C6DC);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #514A9D, #24C6DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
   height: 53px;
   margin-left: 70px;
   font-size:25px;
@@ -1472,7 +1499,11 @@ p {
 }
 .btnOutline2 {
   display: block;
-  color: #289dff;
+  color: #fff;
+  background: #24C6DC;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #514A9D, #24C6DC);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #514A9D, #24C6DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
   text-decoration: none;
   border: 2px solid #289dff;
   border-radius: 6px;
@@ -1490,7 +1521,11 @@ p {
 }
 .btnOutline3 {
   display: block;
-  color: #289dff;
+  color: #fff;
+  background: #5C258D;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #4389A2, #5C258D);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4389A2, #5C258D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
   text-decoration: none;
     font-family: "ALK Rounded Mtav Med", sans-serif;
 
@@ -1504,6 +1539,18 @@ p {
   font-family: "ALK Rounded Mtav Med", sans-serif;
   text-align: center;
   margin-top: 130px;
+}
+.btnOutline:hover{
+background: #fff;
+color: #3399ff;
+}
+.btnOutline2:hover{
+background: #fff;
+color: #3399ff;
+}
+.btnOutline3:hover{
+background: #fff;
+color: #3399ff;
 }
 .sda{
   display: flex;
@@ -1815,7 +1862,10 @@ header {
 }
 
 
-
+.cold{
+  -webkit-filter: grayscale(0.3);
+    filter: grayscale(0.3);
+}
 .list4 {
   width: 45%;
   margin: 5rem auto;
